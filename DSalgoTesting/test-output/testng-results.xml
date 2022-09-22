@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="17" passed="10" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-06T13:28:57 PDT" name="Suite" finished-at="2022-09-06T13:29:37 PDT" duration-ms="40492">
+    <groups>
+    </groups>
+    <test started-at="2022-09-06T13:28:57 PDT" name="Test" finished-at="2022-09-06T13:29:37 PDT" duration-ms="40492">
+      <class name="com.dsalgo.testcases.ModuleTest">
+        <test-method signature="GraphTest()[pri:0, instance:com.dsalgo.testcases.ModuleTest@273e7444]" started-at="2022-09-06T13:29:12 PDT" name="GraphTest" finished-at="2022-09-06T13:29:26 PDT" duration-ms="14315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GraphTest -->
+        <test-method signature="QueueTest()[pri:1, instance:com.dsalgo.testcases.ModuleTest@273e7444]" started-at="2022-09-06T13:29:26 PDT" name="QueueTest" finished-at="2022-09-06T13:29:37 PDT" duration-ms="11218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueueTest -->
+      </class> <!-- com.dsalgo.testcases.ModuleTest -->
+      <class name="com.dsalgo.testcases.RegisterTestExcelDataProvider">
+        <test-method is-config="true" signature="registerpagenotsedingvalue()[pri:0, instance:com.dsalgo.testcases.RegisterTestExcelDataProvider@53aac487]" started-at="2022-09-06T13:29:03 PDT" name="registerpagenotsedingvalue" finished-at="2022-09-06T13:29:06 PDT" duration-ms="2665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerpagenotsedingvalue -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.dsalgo.testcases.RegisterTestExcelDataProvider@53aac487]" started-at="2022-09-06T13:29:06 PDT" name="test1" data-provider="test1data" finished-at="2022-09-06T13:29:07 PDT" duration-ms="476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsalgo@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dsalgo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dsalgo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.dsalgo.testcases.RegisterTestExcelDataProvider@53aac487]" started-at="2022-09-06T13:29:07 PDT" name="test1" data-provider="test1data" finished-at="2022-09-06T13:29:07 PDT" duration-ms="496" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dsalgo@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ds_al@520]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ds_al@521]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.dsalgo.testcases.RegisterTestExcelDataProvider@53aac487]" started-at="2022-09-06T13:29:07 PDT" name="test1" data-provider="test1data" finished-at="2022-09-06T13:29:08 PDT" duration-ms="483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rem540@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ds_al@5201]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ds_al@5202]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.dsalgo.testcases.RegisterTestExcelDataProvider@53aac487]" started-at="2022-09-06T13:29:08 PDT" name="test1" data-provider="test1data" finished-at="2022-09-06T13:29:08 PDT" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.dsalgo.testcases.RegisterTestExcelDataProvider -->
+      <class name="com.dsalgo.testcases.Homepagetesting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.dsalgo.testcases.Homepagetesting@29215f06]" started-at="2022-09-06T13:28:55 PDT" name="setup" finished-at="2022-09-06T13:28:57 PDT" duration-ms="1657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="Getstartedpagesetup()[pri:0, instance:com.dsalgo.testcases.Homepagetesting@29215f06]" started-at="2022-09-06T13:28:57 PDT" name="Getstartedpagesetup" finished-at="2022-09-06T13:29:00 PDT" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getstartedpagesetup -->
+        <test-method signature="negativeTest()[pri:0, instance:com.dsalgo.testcases.Homepagetesting@29215f06]" started-at="2022-09-06T13:29:00 PDT" name="negativeTest" finished-at="2022-09-06T13:29:00 PDT" duration-ms="262" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected:<NumpyNinja> but was:<NumpyNinga1>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected:<NumpyNinja> but was:<NumpyNinga1>
+at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:115)
+at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:125)
+at com.dsalgo.testcases.Homepagetesting.negativeTest(Homepagetesting.java:39)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest -->
+        <test-method signature="Homepagetest()[pri:1, instance:com.dsalgo.testcases.Homepagetesting@29215f06]" started-at="2022-09-06T13:29:00 PDT" name="Homepagetest" finished-at="2022-09-06T13:29:03 PDT" duration-ms="2499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepagetest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.dsalgo.testcases.Homepagetesting@29215f06]" started-at="2022-09-06T13:29:37 PDT" name="teardown" finished-at="2022-09-06T13:29:37 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.dsalgo.testcases.Homepagetesting -->
+      <class name="com.dsalgo.testcases.LoginPageTesting">
+        <test-method signature="negativeTest1Login()[pri:1, instance:com.dsalgo.testcases.LoginPageTesting@52b1beb6]" started-at="2022-09-06T13:29:08 PDT" name="negativeTest1Login" finished-at="2022-09-06T13:29:11 PDT" duration-ms="2839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest1Login -->
+        <test-method signature="LoginTestingsetup()[pri:2, instance:com.dsalgo.testcases.LoginPageTesting@52b1beb6]" started-at="2022-09-06T13:29:11 PDT" name="LoginTestingsetup" finished-at="2022-09-06T13:29:12 PDT" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestingsetup -->
+        <test-method signature="drowndown()[pri:3, instance:com.dsalgo.testcases.LoginPageTesting@52b1beb6]" started-at="2022-09-06T13:29:12 PDT" name="drowndown" finished-at="2022-09-06T13:29:12 PDT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drowndown -->
+      </class> <!-- com.dsalgo.testcases.LoginPageTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
